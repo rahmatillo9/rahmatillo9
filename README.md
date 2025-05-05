@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=F75C19&width=500&lines=Hi+I'm+Rahmatillo+(Butcher)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=F75C19&width=500&lines=Hello%2C+I'm+Rahmatillo+(Butcher)" alt="Typing SVG" />
   </p>
   
   <p align="center">
-    A passionate Fullstack Developer from Uzbekistan <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1ff.png" width="20"/>
+    A passionate Fullstack Developer from Uzbekistan 🗿
   </p>
   
   <p align="center">
