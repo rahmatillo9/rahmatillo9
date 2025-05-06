@@ -3,7 +3,7 @@
   </p>
   
   <p align="center">
-    A passionate Fullstack Developer from Uzbekistan 🗿
+    Unstoppable Fullstack Developer from Uzbekistan 🗿
   </p>
   
   <p align="center">
